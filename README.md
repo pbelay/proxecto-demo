@@ -1,2 +1,0 @@
-# proxecto-demo
-proxecto-demo
