@@ -21,4 +21,8 @@ exemplosoft list
 exemplosoft remove 1
 ```
 
+### Atallos utiles de Git
+```-git status: ver estado
+    -git log --online : historial cuerso
+```
 👉 Queres colaborar mellorando o proxecto? Mira a seguinte sección: [Contribución](04-contribucion.md)
