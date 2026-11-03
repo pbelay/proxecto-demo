@@ -22,3 +22,8 @@ exemplosoft remove 1
 ```
 
 👉 Queres colaborar mellorando o proxecto? Mira a seguinte sección: [Contribución](04-contribucion.md)
+
+## Atallos útiles de Git
+
+- `git status` : ver estado
+- `git log --oneline` : historial curto
